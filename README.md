@@ -1,6 +1,6 @@
 # Fake news detection 
 
- ## AMICHAI MALLE, Yaniv Mazor
+ ## Amichai Malle, Yaniv Mazor
  
 The spread of fake news has become a major problem with its impact felt in journalism, commerce, and democracy. This has resulted in a loss of trust in media sources, leaving people uncertain. To combat this issue, researchers in the field of Artificial Intelligence have been exploring strategies for fake news detection. In previous studies, much emphasis was placed on identifying fake news in online reviews and social media posts.
 
